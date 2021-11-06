@@ -2,14 +2,24 @@
 
 ## What about taxes?
 
-For a single member LLC, treat it as a pass-through entity. It doesn't make sense to do it otherwise because the "favorable" tax treatment only really works when you have someone's labor other than your own. From what I've read, even if you take it as profit distribution, you'll be dinged if you ever get audited because all the labor generating the profit is your own. If you learn otherwise from an accountant, let me know!
+There are many articles available on this topic via google.
+If you have an accountant, you may want to consult them at this point.
+
+In my simple case of a single member LLC, I elected to treat it as a pass-through entity,
+meaning I will just pay income tax on my personal return, rather than having to file
+a separate return for the company.
+
+As I understand it (again, not an accountant!), the benefit to having it be taxes as a
+corporation would be that you could take a portion of your earnings as wages and a
+portion as profit. This only applies if you've got someone else working
+(employee or 1099 contractor), because any money that is the result of your own labor
+will be considered wages by the IRS.
 
 ## Other things to consider
 
 ### Have you thought about a duo business rather than a solo business?
 
-In general, for back-office stuff, as soon as you have one employee (so there are two total, you and one other person),
-you can also look at the PEO option. I looked at the insurance options for one of these for a friend's 30-person nonprofit,
-and they were slightly better than what I get through my husband's multinational (which, admittedly, may not be saying much).
-<https://en.wikipedia.org/wiki/Professional_employer_organization> and
-<https://www.adp.com/resources/articles-and-insights/articles/p/peo-what-is-a-peo-professional-employer-organization.aspx>
+In general, for back-office stuff, as soon as you have one employee
+(so there are two total, you and one other person), you can also look at [the PEO option<](https://en.wikipedia.org/wiki/Professional_employer_organization).
+
+More [about PEOs here] (https://www.adp.com/resources/articles-and-insights/articles/p/peo-what-is-a-peo-professional-employer-organization.aspx)
