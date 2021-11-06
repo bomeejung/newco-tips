@@ -1,4 +1,4 @@
-# Taxes, Insurance, etc.
+# Taxes, Insurance, etc
 
 ## What about taxes?
 
@@ -6,10 +6,10 @@ For a single member LLC, treat it as a pass-through entity. It doesn't make sens
 
 ## Other things to consider
 
-### Have you thought about a duo buisness rather than a solo buisness?
+### Have you thought about a duo business rather than a solo business?
 
-In general, for back-office stuff, as soon as you have one employee (so there are two total, you and one other person), 
-you can also look at the PEO option. I looked at the insurance options for one of these for a friend's 30-person nonprofit, 
+In general, for back-office stuff, as soon as you have one employee (so there are two total, you and one other person),
+you can also look at the PEO option. I looked at the insurance options for one of these for a friend's 30-person nonprofit,
 and they were slightly better than what I get through my husband's multinational (which, admittedly, may not be saying much).
-https://en.wikipedia.org/wiki/Professional_employer_organization and
-https://www.adp.com/resources/articles-and-insights/articles/p/peo-what-is-a-peo-professional-employer-organization.aspx
+<https://en.wikipedia.org/wiki/Professional_employer_organization> and
+<https://www.adp.com/resources/articles-and-insights/articles/p/peo-what-is-a-peo-professional-employer-organization.aspx>

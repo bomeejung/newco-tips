@@ -7,8 +7,9 @@ with someone who does this for a living, especially if you have legal questions!
 ## Reserving a name and filing with NYS
 
 1. Pick your entity name and check that it's available.
-Go to the [NYS name check website](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry)
 Before you decide on the name, check that the URL is available at any domain registrar. I use Dreamhost, but any of them will do.
+Go to the [NYS name check website](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry). Check if there are any existing companies using the name.
+
 2. Fill out the [State's website](https://www.businessexpress.ny.gov/app/answers/cms/a_id/2443/kw/domestic%20LLC)
 If you don't have a NY.Gov login, it will walk you through getting one, and then once you start the wizard, it takes about 10 minutes.
 Before you fill this out, you need to decide what address to use as your primary location of business. If you have family outside of the 5-boroughs that you can be based in, that would save you a lot of money in the required advertisement. You use that as your PHYSICAL address, but not your Address for Service. The address for service is public information that has to be published in the ad (below)
