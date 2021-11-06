@@ -6,11 +6,10 @@ with someone who does this for a living, especially if you have legal questions!
 
 ## Reserving a name and filing with NYS
 
-1. Pick your entity name that is available for use.
-NYS name check website: <https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry>
-Before you decide on the name, check that the URL is available. I use Dreamhost, but you can use any domain registrar to check.
-2. Fill out the State's website
-<https://www.businessexpress.ny.gov/app/answers/cms/a_id/2443/kw/domestic%20LLC>
+1. Pick your entity name and check that it's available.
+Go to the [NYS name check website](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry)
+Before you decide on the name, check that the URL is available at any domain registrar. I use Dreamhost, but any of them will do.
+2. Fill out the [State's website](https://www.businessexpress.ny.gov/app/answers/cms/a_id/2443/kw/domestic%20LLC)
 If you don't have a NY.Gov login, it will walk you through getting one, and then once you start the wizard, it takes about 10 minutes.
 Before you fill this out, you need to decide what address to use as your primary location of business. If you have family outside of the 5-boroughs that you can be based in, that would save you a lot of money in the required advertisement. You use that as your PHYSICAL address, but not your Address for Service. The address for service is public information that has to be published in the ad (below)
 For your Address for Service, choose a registered agent (I used VCorp - they're in the dropdown) and use the same in the next field (Registered Agent)
@@ -42,8 +41,8 @@ Purpose: any lawful.
 
 ## Get EIN
 
-5. Apply for EIN - you need to have the LLS filing receipt to do this
-<https://irs-ein-forms-gov.com/limited-liability-company-v2/>
+5. [Apply for EIN](https://irs-ein-forms-gov.com/limited-liability-company-v2/) with the IRS - you need to have the LLS filing receipt to do this.
+
 6. (with the EIN in hand) Respond to the NYS Dept Taxation and Finance LLC Request for Information form TR-570. This will just show up at your registered agent, and they will forward it to you, via email if it's VCorp. Fill it out and upload it to the Dept Tax website (you'll have to make yourself a corporate account, which is separate from your business express account). Use the "respond to department notice" feature and select "other notice" No biggie.
 
 7. Go back into Business Express and follow the new business checklist - it will tell you to get the Worker's Comp and Disability exception out of the way. May as well do it, because otherwise, they'll just send you letters. You need your EIN for this as well.
@@ -51,10 +50,15 @@ Purpose: any lawful.
 ## Get bank account
 
 You will need a separate bank account for your LLC. I looked into this a good bit, both for cost and options outside traditional banks.
-I chose to go with the Japanese American Civic League Credit Union, which requires a $70 membership to join the JACL.
-Apply to JACL-CU after joining JACL (call  - it's not obvious online how to do it). They will set you up with a business account.
+
+I specifically wanted to use a credit union and
+I chose to go with the Japanese American Civic League Credit Union (JACL-CU),
+which requires a $70 membership to join the JACL.
+Apply to JACL-CU after joining JACL (call  - it's not obvious online how to do it).
+They will set you up with a business account.
 Also, the JACL newsletters are very good.
 
-If being at a credit union isn't important to you, I recommend Amalgamated or Carver as alternatives.
-Be forewarned: Carver requires two in-person visits, and the calendar time between visits #1 and #2 can be lengthy.
-Shinhan bank also has a good small business deal, I think, but you have to go in person (32nd and B'way).
+If being at a credit union isn't important to you,
+but you don't want a big commercial bank, you could look at Amalgamated or Carver as alternatives.
+Be forewarned: Carver requires two in-person visits,
+and the calendar time between visits #1 and #2 can be lengthy.
