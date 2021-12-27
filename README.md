@@ -1,65 +1,32 @@
-# How to start a solo consulting business in NYC
+---
+description: >-
+  I'm sharing what I've had to piece together on my own, which I hope will give
+  the next person a head start on figuring things out for themselves :)
+---
 
-Several people have asked me for tips on how to start an independent consultancy in NYC.
-Sharing my personal experience, which should not substitute for professional consultation
-with someone who does this for a living, especially if you have legal questions!
+# Bomee's tips for hanging a shingle...or two
 
-## Reserving a name and filing with NYS
+Several people have asked me for tips on how to start an independent consultancy in NYC. These tips, based on my personal experience, should not substitute for professional consultation with someone who does this for a living, particularly on legal and accounting questions!
 
-1. Pick your entity name and check that it's available.
-Before you decide on the name, check that the URL is available at any domain registrar. I use Dreamhost, but any of them will do.
-Go to the [NYS name check website](https://appext20.dos.ny.gov/corp_public/corpsearch.entity_search_entry). Check if there are any existing companies using the name.
+## How I came to start two companies in one year
 
-2. Fill out the [State's website](https://www.businessexpress.ny.gov/app/answers/cms/a_id/2443/kw/domestic%20LLC)
-If you don't have a NY.Gov login, it will walk you through getting one, and then once you start the wizard, it takes about 10 minutes.
-Before you fill this out, you need to decide what address to use as your primary location of business. If you have family outside of the 5-boroughs that you can be based in, that would save you a lot of money in the required advertisement. You use that as your PHYSICAL address, but not your Address for Service. The address for service is public information that has to be published in the ad (below)
-For your Address for Service, choose a registered agent (I used VCorp - they're in the dropdown) and use the same in the next field (Registered Agent)
-Cost $225
-In about 24 hours, you will get a filing receipt. You have to keep track of this thing. It has the official date your LLC was formed, which you need later
+The first company I set up is a solo consultancy. It is a **New York State LLC**. Well before I decided to start a solo consultancy, I received the advice from someone I consider a mentor that it would be a good idea to set up a corporate entity _just in case_ I ever decided to take up independent consulting. She added that I should do, if possible, about a year before actually starting to do consulting full time, as MWBE businesses are required to have operated for a year before registering as such. Well, in hindsight, it was great advice and I should have taken it! As it happens, I didn't actually decide to set up a business until I knew for sure that I wanted to leave my job, but at that point, at least, I knew that I did want to set up an LLC rather than just freelance without a company, which I had done for several years in the past.
 
-## LLC Public Notice
+The reasons I wanted to go with an LLC ([vs, for example an S Corp](https://www.investopedia.com/articles/personal-finance/011216/s-corp-vs-llc-which-should-i-choose.asp)) for my solo consulting business are:
 
-3. Publish for 6 weeks
-Has to run in a daily for 6 weeks and a weekly for 6 weeks.
-Whatever county you use, you'll have to look up that county clerk's website to see how they handle the publication.
-Just as a reference, in Dutchess, they just list which papers and you contact them directly by email. In Suffolk, they list the papers also, but you have to get a piece of paper from the Clerk, for which you have to pay $35 or something
-Contact the papers - they will tell you how much it costs, and you can pay online.
-After they run the ads, they will send you a thing that you then have to send into the State
+1. I want to keep track of my business income and expenses separate from my personal finances, and the LLC requirements impose a structure and discipline (expected to) find useful.
+2. I don't plan to ever have employees, partners, or investors. So, the [tax advantages of S-Corp distributions](https://www.nerdwallet.com/article/small-business/how-to-pay-yourself-as-an-s-corp) don't really apply here (IMHO).
+3. I expected to do work that would require certain types of insurance that (I assumed) are available only to businesses.
+4. I appreciate the[ limited liability aspect](https://quickbooks.intuit.com/r/freelancer/llc-for-freelancer/).
 
- If you advertise in NYC, just email the county clerk and ask them if they can tell you which papers to advertise in. The Brooklyn Clerk's office was very accommodating. The advert cost was $360 per paper.
+Tax treatment was _not_ a consideration because I already knew that I would have the income taxed via my personal income tax, you have to pay both the employer's and employee's portions of the employment taxes, and, of course, the business-related expenses are deductible for freelancers just as for LLCs.
 
-Depending on who it is, you may need to send them the advert text. Here is what I used:
+The second company I set up is a **Delaware Public Benefit Corporation**. As fate would have it, later on in the year, I found myself a partner in a software company that plans to seek outside investment. It's incorporated in Delaware because, by all accounts, that's the option that the biggest swath of VCs are comfortable with, and it's a PBC because my partner and I want to make sure that the social and climate mission of the company are enshrined from the get-go.
 
-~~~
-XYZ LLC
-XYZ LLC, a domestic LLC, filed with the SSNY on DATE. Office location: NAME County.
-SSNY is designated as agent upon whom process against the LLC may be served. SSNY shall mail process to the company c/o: 
-VCorp Services, LLC, 25 Robert Pitt Dr., Ste 204, Monsey, NY 10952. 
-Purpose: any lawful.
-~~~
+The rest of this document goes through the steps I took in  forming a NY LLC and a DE PBC/C-Corp. Keep in mind that the services I provide as a consultant aren't related to this content - that means that I don't have _anything_ to compare my particular experiences to, and I won't be keeping on top of changing regulations or processes (If you are inclined to get professional advice, please don't let this be a substitute - it is totally not that).
 
-4. Whichever registered agent you're using, go register for their service and pay them ASAP. There is a Dept Tax letter headed there.
+The three steps I cover are:
 
-## Get EIN
-
-5. [Apply for EIN](https://irs-ein-forms-gov.com/limited-liability-company-v2/) with the IRS - you need to have the LLS filing receipt to do this.
-
-6. (with the EIN in hand) Respond to the NYS Dept Taxation and Finance LLC Request for Information form TR-570. This will just show up at your registered agent, and they will forward it to you, via email if it's VCorp. Fill it out and upload it to the Dept Tax website (you'll have to make yourself a corporate account, which is separate from your business express account). Use the "respond to department notice" feature and select "other notice" No biggie.
-
-7. Go back into Business Express and follow the new business checklist - it will tell you to get the Worker's Comp and Disability exception out of the way. May as well do it, because otherwise, they'll just send you letters. You need your EIN for this as well.
-
-## Get bank account
-
-You will need a separate bank account for your LLC. I looked into this a good bit, both for cost and options outside traditional banks.
-
-I specifically wanted to use a credit union and
-I chose to go with the Japanese American Civic League Credit Union (JACL-CU),
-which requires a $70 membership to join the JACL.
-Apply to JACL-CU after joining JACL (call  - it's not obvious online how to do it).
-They will set you up with a business account.
-Also, the JACL newsletters are very good.
-
-If being at a credit union isn't important to you,
-but you don't want a big commercial bank, you could look at Amalgamated or Carver as alternatives.
-Be forewarned: Carver requires two in-person visits,
-and the calendar time between visits #1 and #2 can be lengthy.
+1. Picking a name and securing a URL
+2. Forming a business entity (in NY or DE)
+3. Pulling together tools to make operations easy
