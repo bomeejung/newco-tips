@@ -6,7 +6,7 @@ description: >-
 
 # Bomee's tips for hanging a shingle...or two
 
-Several people have asked me for tips on how to start an independent consultancy in NYC. These tips, based on my personal experience, should not substitute for professional consultation with someone who does this for a living, particularly on legal and accounting questions!
+Several people have asked me for tips on how to start an independent consultancy in New York. These tips, based on my personal experience, should not substitute for professional consultation with someone who does this for a living, particularly on legal and accounting questions!
 
 ## How I came to start two companies in one year
 
