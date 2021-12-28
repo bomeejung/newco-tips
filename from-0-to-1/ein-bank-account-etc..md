@@ -6,9 +6,9 @@
 
 ## Other NYS Follow-ups
 
-1. **NYS Tax Department needs your EIN**. For some reason, they have multiple forms in which they notify you of this need. Whichever on you get, you should follow the instructions there. These letters go to your registered agent, who will forward them to you.
+1. **NYS Tax Department needs your EIN**. For some reason, they have multiple forms in which they notify you of this need. These letters go to your registered agent, who will forward them to you. Whichever on you get, you should follow the instructions there.&#x20;
    * **CT-198** Letter: This one seems to say call them with your EIN.&#x20;
-   * **TR-570** Letter. Fill it out and fax it back to them at the number indicated, or, if you're living possibly, upload it to the Dept Tax website (you'll have to make yourself a corporate account, which is separate from your business express account). Use the "respond to department notice" feature and select "other notice." Come back later and check that your EIN is correct.
+   * **TR-570** Letter. Fill it out and fax it back to them at the number indicated. Or, if you're living dangerously (as I did, unknowingly), upload it to the Dept. of Tax website (you'll have to make yourself a corporate account, which is separate from your business express account). Use the "respond to department notice" feature and select "other notice." Come back later and check that your EIN is correct. _I have heard from a friend that someone at DOT told her you are not actually supposed to upload **this particular notice**. Insert shrug emoji here._
    * **DTF-95** form. [See this item](https://tax.custhelp.com/app/answers/detail/a\_id/1055/kw/tr-570%20instructions/related/1).
 2. **Worker's Comp and Disability.** Go back into Business Express and follow the new business checklist - it will tell you to get the Worker's Comp and Disability exception out of the way (if you have **no employees**). May as well do it, because otherwise, they'll just send you letters. You need your EIN for this as well (If you DO have employees, you will have to get worker's comp and disability insurance at this point).
 
