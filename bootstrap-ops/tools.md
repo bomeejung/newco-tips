@@ -24,8 +24,8 @@ In order of importance:
 2. Dashlane: [https://www.dashlane.com](https://www.dashlane.com) for secure passwords. Or use FirstPass. Use something.
 3. ****[zCal](https://zcal.co) or [Calendly](http://calendly.com) for self-service calendaring. Cuts down email volume by 50%. Seriously.
 4. [Reclaim.ai](https://reclaim.ai) - Keep personal and work calendars synched up. Also does fun auto-scheduling tasks and meetings. This is one of my favorite things ever. Thank you, Internet.
-5. CRM: [Hubspot](https://app.hubspot.com) - IMHO, the best of a crowded by not all that satisfactory field. I used Highrise for years and years, and there's nothing as simple and user-friendly as that anymore. Arguably, Copper and Cloze are nice in their own ways, but they all have pros and cons (one of those doesn't allow a contact to have more than one email address - who has only one email address these days?!?)
-6. Grasshopper (Virtual PBX): [https://grasshopper.com/](https://grasshopper.com)
+5. CRM: [Hubspot](https://app.hubspot.com) - IMHO, the best of a crowded but not-all-that satisfactory field. I used Highrise for years and years, and there's nothing as simple and user-friendly as that anymore. Arguably, Copper and Cloze are nice in their own ways, but they all have pros and cons (one of those doesn't allow a contact to have more than one email address - who has only one email address these days?!?)
+6. [Grasshopper](https://grasshopper.com) (Virtual PBX): If you don't want to put your personal phone number out in the world for business. Or you can get a [Google Voice](https://voice.google.com/u/0/about) number
 7. [GitBook](https://gitbook.com) - turn documents in Github into a nice linked website. You are looking at a GitBook site right now!
 8. [Taco](https://tacoapp.com) - see all your tasks (Github, Slack, Google, etc.) in one place
 
