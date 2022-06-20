@@ -1,8 +1,11 @@
 ---
-description: >-
-  I'm sharing what I've had to piece together on my own, which I hope will give
-  the next person a head start on figuring things out for themselves :)
+title: Welcome
+has_children: false
+nav_order: 1
 ---
+
+I'm sharing what I've had to piece together on my own, which I hope will give
+the next person a head start on figuring things out for themselves :)
 
 # Bomee's tips for hanging a shingle...or two
 
