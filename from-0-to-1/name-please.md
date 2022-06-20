@@ -1,8 +1,11 @@
 ---
-description: >-
-  Pick your entity name and check that it's available. Before you decide on the
-  name, check that the URL is available.
+title: Name?
+parent: From 0 to 1
+has_children: false
+nav_order: 1
 ---
+
+Pick your entity name and check that it's available. Before you decide on the name, check that the URL is available.
 
 # Name, Please?
 

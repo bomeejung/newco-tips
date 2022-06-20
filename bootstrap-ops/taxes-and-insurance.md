@@ -1,3 +1,9 @@
+---
+title: Payroll & Insurance, etc.
+parent: Bootstrapping Ops
+has_children: false
+nav_order: 1
+---
 # Payroll & Insurance, etc
 
 ## Have you heard of PEOs?

@@ -1,8 +1,11 @@
 ---
-description: >-
+title: Helpful Productivity Tools
+parent: Bootstrapping Ops
+has_children: false
+nav_order: 2
+---
   I have a weakness for checking out productivity tools and have spent WAY too
   much time looking at them. So fun!
----
 
 # Helpful Productivity Tools
 

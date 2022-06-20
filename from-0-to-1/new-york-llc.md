@@ -1,9 +1,12 @@
 ---
-description: >-
-  NYS's Department of State website is really great and easy to use, and
-  hopefully any future iterations will be even better. If any links are broken,
-  just go to the NYS DOS website (https://dos.ny.gov)
+title: New York LLC
+parent: From 0 to 1
+has_children: false
+nav_order: 2
 ---
+NYS's Department of State website is really great and easy to use, and
+hopefully any future iterations will be even better. If any links are broken,
+just go to the NYS DOS website (https://dos.ny.gov)
 
 # New York LLC
 

@@ -1,8 +1,12 @@
 ---
-description: >-
-  The steps are basically the same for registering a Public Benefit Corp or a
-  regular C Corporation. Delaware also has a Public Benefit LLC as an option.
+title:  Delaware Public Benefit Corp.
+parent: From 0 to 1
+has_children: false
+nav_order: 3
 ---
+
+The steps are basically the same for registering a Public Benefit Corp or a
+regular C Corporation. Delaware also has a Public Benefit LLC as an option.
 
 # Delaware Public Benefit Corp.
 
