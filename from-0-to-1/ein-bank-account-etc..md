@@ -1,3 +1,9 @@
+---
+title: EIN, Bank Account, etc.
+parent: From 0 to 1
+has_children: false
+nav_order: 4
+---
 # EIN, Bank Account, etc.
 
 ## Get EIN
