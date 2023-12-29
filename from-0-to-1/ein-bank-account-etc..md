@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Get EIN
 
-[Apply for EIN](https://irs-ein-forms-gov.com/limited-liability-company-v2/) with the IRS. You need to have a filing receipt to do this, mainly because you need the exact date of formation.
+[Apply for EIN](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) with the IRS. You need to have a filing receipt to do this, mainly because you need the exact date of formation.
 
 ## Other NYS Follow-ups
 
