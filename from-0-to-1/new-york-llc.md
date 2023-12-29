@@ -15,13 +15,18 @@ just go to the NYS DOS website (https://dos.ny.gov)
 1. You should have checked name availability at the [NYS name check website](https://appext20.dos.ny.gov/corp\_public/corpsearch.entity\_search\_entry).&#x20;
 2. At this point, if you think it will take you some time to get everything done and you want to make sure no one else registers a business with that name, you can [reserve the name for 60 days](https://dos.ny.gov/reservation-name-domestic-and-foreign-business-corporations).
 
+## Select a Registered Agent
+
+You probably don't want your home address published for all and sundry in the required public notice (below), so you'll need to select a registered agent. I've used a couple difference services and prefer [Harbor Compliance](https://www.harborcompliance.com/): their online software is slick and whenever I have a quick question, they're fast and thorough via chat and email.
+
 ## Filing with NYS
 
 Filing an LLC currently costs $225 and takes just a few minutes with NYS's online tool, if you have all your information lined up.
 
 1. Before you start, you need to decide what address to use as your primary (physical) location of business. If you have a location outside of the 5-boroughs that you can be based in, that would save you some money in the required advertisement. You use that as your PHYSICAL address, but not your Address for Service.&#x20;
 2. Now you need to pick an address for service. Note that the **address for service is public information that has to be published** in the ad (below). If you don't want your home address in two local papers and available to a whole bunch of people who want to sell you services for your new business, choose a registered agent (I used [VCorp](https://www.entitycompli.com) - they're in the dropdown) and use the same in the next field (Registered Agent). Whichever registered agent you're using, go register for their service and pay them ASAP. There is a Dept. of Taxation & finance letter headed there.
-3. Fill out the [State's website](https://www.businessexpress.ny.gov/app/answers/cms/a\_id/2443/kw/domestic%20LLC). If you don't have a NY.Gov login, it will walk you through getting one, and then once you start the wizard, it takes about 10 minutes.&#x20;
+3. Fill out the [State's website](https://www.businessexpress.ny.gov/app/answers/cms/a\_id/2443/kw/domestic%20LLC). If you don't have a NY.Gov login, it will walk you through getting one, and then once you start the wizard, it takes about 10 minutes.&#x20; If you're using Harbor Compliance, you can find them in the NYS form's dropdown menu -- they're listed as Registered Agents Inc. with the address 418 Broadway STE R,
+Albany, NY 12207.
 4. In about 24 hours, you will get a filing receipt. You have to keep track of this thing. It has the official date your LLC was formed, which you need later.
 
 ## LLC Public Notice
