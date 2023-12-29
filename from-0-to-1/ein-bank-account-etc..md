@@ -32,4 +32,4 @@ If you are in a hurry and want to open an account ASAP online, [**Novo Bank**](h
 
 ## Get a Credit Card
 
-As a solo consultant, I wanted to get a business credit card so I could segregate my business spending from my household spending and make my tax season tracking that much easier. I didn't look around much before going with Amex](https://americanexpress.com/en-us/referral/BOMEEJTstr?xl=cp01) (<-- referral link).
+As a solo consultant, I wanted to get a business credit card so I could segregate my business spending from my household spending and make my tax season tracking that much easier. I didn't look around much before going with [Amex](https://americanexpress.com/en-us/referral/BOMEEJTstr?xl=cp01) (<-- referral link).
