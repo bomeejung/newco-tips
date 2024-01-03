@@ -24,7 +24,7 @@ There are a lot of no-code website services and I don't know most of them, but I
 In order of importance:
 
 1. Google Workspace: [https://accounts.google.com](https://accounts.google.com) - Email, calendar, file storage.
-2. Dashlane: [https://www.dashlane.com](https://www.dashlane.com) for secure passwords. Or use LastPass. Use something.
+2. Secure Password Manager: [Dashlane](https://www.dashlane.com) or [Proton Pass](https://proton.me/pass/password-sharing) for secure passwords. Or use LastPass. Use something.
 3. [zCal](https://zcal.co)(Free) or [Cal.com](Cal.com) (Free) or [Calendly](http://calendly.com) (Free version w limited features) for self-service calendaring. Cuts down email volume by 50%. Seriously.
 4. [Reclaim.ai](https://reclaim.ai) - Keep personal and work calendars synched up. Also does fun auto-scheduling tasks and meetings. This is one of my favorite things ever. Thank you, Internet.
 5. CRM: [Hubspot](https://app.hubspot.com) - IMHO, the best of a crowded but not-all-that satisfactory field. I used Highrise for years and years, and there's nothing as simple and user-friendly as that anymore. Arguably, Copper and Cloze are nice in their own ways, but they all have pros and cons (one of those doesn't allow a contact to have more than one email address - who has only one email address these days?!?)
