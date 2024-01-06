@@ -46,4 +46,4 @@ VCorp Services, LLC, 25 Robert Pitt Dr., Ste 204, Monsey, NY 10952.
 Purpose: any lawful.
 ```
 
-After they run the ads, they will send you **a confirmation thing** that you then have to send into the Dept. of State.
+After they run the ads, they will send you **a confirmation thing** that you then have to send into the Dept. of State within 120 days.
